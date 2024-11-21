@@ -1,0 +1,11 @@
+1. What is the keyboard interaction missing 
+-Opening/closing functionality with Enter or Space.
+-Navigation functionality with up or down arrow keys.
+
+-Ability to see which accordian you were tabbed onto.
+
+2. What is the ARIA missing
+-Aria-Expanded
+-Aria-Controls
+-Role="button"
+-Role="region"
